@@ -1,6 +1,6 @@
 <h1 align="center">
   <!--img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/5b1a5a8f-ef1a-472f-9c25-9f0ecba6ca67" /-->
-  <img width="128" height="128" alt="Image" src="https://github.com/user-attachments/assets/898926ba-06a5-49ab-ae4e-d44940e14b27" /> <br>
+  <img width="128" height="128" alt="Image" src="https://github.com/user-attachments/assets/d580bd2e-50e2-4c81-a11f-850d63e76868" /> <br>
   Chaptick
 </h1>
 
