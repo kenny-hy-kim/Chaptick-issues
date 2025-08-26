@@ -14,3 +14,8 @@
   Copyright (c) 2025 Hoyeon Kim. All Rights Reserved. <br>
   <img alt="Manifest V3" src="https://img.shields.io/badge/manifest-v3-yellow">
   </p>
+
+
+  <a class="install-btn" href="https://chromewebstore.google.com/detail/chaptick-%E2%80%93-chatgpt-milest/hielkgidjgadmdfnoegnbfpjkgcapcck?utm_source=chaptick" target="_blank" rel="noopener">
+    Install Chaptick from Chrome Web Store
+  </a>
