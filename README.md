@@ -7,6 +7,10 @@
 <p align="center">
   <strong>A lightweight Chrome extension that turns your ChatGPT conversation into live, clickable milestones.</strong><br>
   <em>Scroll anywhere with one click &nbsp;•&nbsp; Stay in flow without reloading</em>
+  <br>
+  <a class="install-btn" href="https://chromewebstore.google.com/detail/chaptick-%E2%80%93-chatgpt-milest/hielkgidjgadmdfnoegnbfpjkgcapcck?utm_source=chaptick" target="_blank" rel="noopener">
+   Install Chaptick from Chrome Web Store
+  </a>
 </p>
 
 <p align="center">
@@ -16,6 +20,4 @@
   </p>
 
 
-  <a class="install-btn" href="https://chromewebstore.google.com/detail/chaptick-%E2%80%93-chatgpt-milest/hielkgidjgadmdfnoegnbfpjkgcapcck?utm_source=chaptick" target="_blank" rel="noopener">
-    Install Chaptick from Chrome Web Store
-  </a>
+ 
